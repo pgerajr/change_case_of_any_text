@@ -37,7 +37,7 @@ function wordCapitalize() {
 }
 
 function resetApp() {
-    my_input.value = ""
+    my_input.value = "";
     sub_title.style.color = "gray";
     sub_title.innerText = "O texto aparecerá aqui... ;)"
 }
